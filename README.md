@@ -1,4 +1,4 @@
-# devops_example
+# docker_example
 
 mvn clean package spring-boot:repackage
 
